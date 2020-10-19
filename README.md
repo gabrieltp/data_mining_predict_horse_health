@@ -14,4 +14,6 @@ Finally, I test some Machine Learning models on my clean data: Decision Tree, Su
 
 In the end, I compare all the models I have and choose the best one based on the biggest accuracy to predict the horse's health.
 
-![random_forest](./figs/random_forest.png)
+<p align="center">
+  <img src="./figs/random_forest.png"/>
+</p>
